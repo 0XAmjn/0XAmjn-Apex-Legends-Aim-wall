@@ -31,7 +31,7 @@ It may be that Amjns_AVV is recognized as a virus. If this is the case, it is be
 
 **Known errors**
 
-*****esp something could be stuck try to change it*****
+*****esp sometimes could be stuck trying to change it*****
 
 *****Skin changer is laggy/crashing dont used it for NEWCASTLE/ASH/ALTER rest should be work fine*****
 
