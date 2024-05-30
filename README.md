@@ -34,6 +34,10 @@ Befor u do all the steps
 
 --------Step 4---------> If u done everything right u can go into a game and press insert
 
+**Aimbot key is on mouse 5**
+
+**if ui dosent show up no problem esp is always on and aimbot too**
+
 _______________________________________________________________________________________________
 
 It may be that Amjns_AVV is recognized as a virus. If this is the case, it is because Amjns_AVV reads memories from the game so that our aimbot and esp works. If you have any questions, please contact Dc alisa7701
