@@ -21,7 +21,7 @@ TuT
 
 ------Step 2-------> Go to setting and turn apex in to windowd(borderles)
 
--------Step 3--------> Then Open Amjns_AVV
+-------Step 3--------> Then Open /Amjns_AVV/
 
 --------Step 4---------> If u done everything right u can go into a game and press insert
 
