@@ -17,6 +17,15 @@ Its my first project so if its work fine and u like it please give a star ty
 _______________________________________________________________________________________________
 TuT
 
+
+Befor u do all the steps
+
+**IMPORTANT**
+
+**you need a usb stick you have to drag the efi file onto your usb and then go into bios and select this efi as boot for help just write a message on discord will help above all**
+
+**Mouse sensivity needs to be on under 4 and over 1**
+
 -----Step 1------> Open Apex
 
 ------Step 2-------> Go to setting and turn apex in to windowd(borderles)
