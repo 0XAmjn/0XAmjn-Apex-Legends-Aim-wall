@@ -14,6 +14,7 @@ Please report the problems via Discord (Fastest way to fix the problem)
 
 Its my first project so if its work fine and u like it please give a star ty
 
+_______________________________________________________________________________________________
 TuT
 
 -----Step 1------> Open Apex
@@ -24,6 +25,8 @@ TuT
 
 --------Step 4---------> If u done everything right u can go into a game and press insert
 
+_______________________________________________________________________________________________
+
 It may be that Amjns_AVV is recognized as a virus. If this is the case, it is because Amjns_AVV reads memories from the game so that our aimbot and esp works. If you have any questions, please contact Dc alisa7701
 
 **Known errors**
@@ -31,6 +34,32 @@ It may be that Amjns_AVV is recognized as a virus. If this is the case, it is be
 *****esp something could be stuck try to change it*****
 
 *****Skin changer is laggy/crashing dont used it for NEWCASTLE/ASH/ALTER rest should be work fine*****
+
+_______________________________________________________________________________________________
+
+
+**ERROR FIXES**
+
+ERROR - **Opens cheat but menu dont open**
+
+**FIX - OPEN /DRIVER_LOAD/**
+
+
+error - **Driver faild to load**
+
+**FIX - OPEN /kdmapper/**
+
+
+
+
+
+
+_______________________________________________________________________________________________
+
+
+
+
+
 
 
 
